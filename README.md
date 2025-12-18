@@ -1,6 +1,6 @@
 # Title: Linear Assignment on Tile-Centric Accelerators: Redesigning Hungarian Algorithm on IPUs
 
-This is the readme file for the Paper "Linear Assignment on Tile-Centric Accelerators: Redesigning Hungarian Algorithm on IPUs".
+This is the readme file for the Paper "Accelerating the Hungarian Algorithm: Computing Linear Assignments on CPUs, GPUs, and IPUs".
 
 ## Hardware Platform:
 
